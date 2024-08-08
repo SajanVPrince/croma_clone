@@ -1,3 +1,27 @@
 #search{
     color: black;
 }
+#itembtn{
+    margin-bottom: 30px;
+}
+.navbar{
+    position:fixed ;
+    z-index: 99999;
+    width: 100%;
+}
+.container{
+    padding-bottom: 50px;
+}
+#main{
+    padding-bottom: 80px;
+}
+#scroll{
+    padding-bottom: 80px;
+}
+.custom-img-width {
+    width: 100%;
+}
+
+@media screen and (max-width:580px) {
+
+}

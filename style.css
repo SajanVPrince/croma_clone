@@ -21,7 +21,44 @@
 .custom-img-width {
     width: 100%;
 }
-
+.scrollhd{
+    color: white;
+    position:absolute;
+    top: 25%;
+    left: 47%;
+}
+.scrolldef{
+    color:white;
+    position:absolute;
+    top: 45%;
+    left: 47%;
+}
+.readmore{
+    position: absolute;
+    top: 55%;
+    left: 47%;
+}
+.readmorebtn{
+    font-size: 1.5vw;
+    padding: 6px 10px;
+    border-style: solid;
+    border-color: #08c485;
+    color: black;
+    border-width: 1px;
+    border-radius: 9px;
+    text-decoration: none;
+    background-color: #08c485;
+}
+.readmorebtn:hover{
+    background-color: #47d4a5;
+}
+#search{
+        position: absolute; 
+        left: 320px; 
+        top: 36%; 
+        transform: translateY(-50%); 
+        color: black;
+}
 @media screen and (max-width:580px) {
 
 }
